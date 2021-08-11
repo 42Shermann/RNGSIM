@@ -1,6 +1,6 @@
 Web app created to simulate a game system from King's Raid, mobile game developed by Vespa.
 
-Developed by React
+Created using React framework.
 
 Deployed on https://tmcraftingsim.herokuapp.com/
 
